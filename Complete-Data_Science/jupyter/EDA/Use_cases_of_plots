@@ -1,0 +1,14 @@
+#                    Different Graphs and their use cases
+1. ScatterPlot - it is used to understand relationship between two variable.
+2. Line Chart - it is used during wherever on x axis, we have time component.
+3. bar chart - it is used for categorical data.
+4. Count plot - it is used categorical data.
+5. pie chart - it is used for the distribution of data or distribution of different unique classes.
+6. box plot - it is use to determine the outlier.
+7. violin plot - it is used to determine the outlier.
+8. histogram/distplot - it is used for continous data.
+9. heatmap- it is used to understand the correlation.
+10. pairplot - it is used for getting all the numerical relationship in one plot.
+11. join plot- it is used for get relationship and distribution of data.
+12. Lmplot - it is used to determine regression line.
+13. swarm/relplot - it is similar as scatter plot.
