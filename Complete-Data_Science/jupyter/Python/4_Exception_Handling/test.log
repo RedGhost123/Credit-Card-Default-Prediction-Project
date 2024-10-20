@@ -1,0 +1,4 @@
+INFO:root:this is start of my try block
+INFO:root:asking user for input
+INFO:root:user has enter age = 67
+INFO:root:valid User

@@ -1,0 +1,6 @@
+2024-09-05 16:29:25,978 INFO - calling class using obj_b
+2024-09-05 16:29:25,978 INFO - calling test class
+2024-09-05 16:29:25,978 INFO - this is start of class a test1
+2024-09-05 16:29:25,979 INFO - this is start of test2
+2024-09-05 16:29:25,979 INFO - this is start of class b test3
+2024-09-05 16:29:25,980 INFO - this is start of class b test4
